@@ -236,19 +236,11 @@
     },
     {
       "type":"song",
-      "name":"Finorza",
-      "author":"Camellia",
-      "speed":1,
-      "file":"https://github.com/knijn/musicify-songs/raw/main/camellia/camellia-finorza.dfpwm",
-      "time":271
-    },
-    {
-      "type":"song",
       "name":"One Way or Another",
       "author":"Blondie",
       "speed":1,
       "file":"https://github.com/MooseEggs/hawktuah/raw/refs/heads/main/08.One_Way_or_Another.dfpwm",
-      "time":271
+      "time":216
     }
   ]
 }
